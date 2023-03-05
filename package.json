@@ -1,0 +1,25 @@
+{
+  "name": "fullstack-part-8",
+  "version": "1.0.0",
+  "description": "Fullstack open part 8: GraphQL",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PyryV/fullstack-part-8.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PyryV/fullstack-part-8/issues"
+  },
+  "homepage": "https://github.com/PyryV/fullstack-part-8#readme",
+  "dependencies": {
+    "@apollo/server": "^4.4.1",
+    "graphql": "^16.6.0",
+    "uuid": "^9.0.0"
+  }
+}
